@@ -39,7 +39,7 @@
             Type
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">NTR</a></li>
+            <li><a class="dropdown-item" href="#">Comedy</a></li>
             <li><a class="dropdown-item" href="#">RomCom</a></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
